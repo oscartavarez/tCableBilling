@@ -2,7 +2,7 @@
   <img src="https://raw.githubusercontent.com/rnaby/tCableBilling/master/public/images/tcablebilling.png" alt="Sublime's custom image"/>
 </p>
 
-# tCableBilling<sup>®</sup>
+# tCableBilling<sup>®</sup> `v1.0.0`
 
 [![Build Status](https://travis-ci.org/rnaby/tCableBilling.svg?branch=master)](https://travis-ci.org/rnaby/tCableBilling)
 
